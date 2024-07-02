@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(white, white);
+}
+
+.container {
+    text-align: center;
+}
+
+button {
+    padding: 15px 25px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 30px;
+    background-color: rgb(106, 228, 228);
+    
+}
+
+p {
+    font-size: 18px;
+    margin-top: 20px;
+}
+button:hover {
+    background-color: rgb(157, 229, 229);
+
+}
